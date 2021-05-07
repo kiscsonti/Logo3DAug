@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="387027d9-1b5e-4241-a3be-0fa151b749b2" name="deep1 (project level)" url="http://deep1.inf.u-szeged.hu">
+        <fileTransfer rootFolder="/home/kardosp" accessType="SFTP" host="deep1.inf.u-szeged.hu" port="22" sshConfigId="5f097da8-2980-47ed-a6e0-a49e5d8ff66a" sshConfig="deep1">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="ed777ab3-289f-449e-8f38-21de0a6b400e" name="deep2 (project level)" url="http://deep2.inf.u-szeged.hu">
+        <fileTransfer rootFolder="/home/kardosp" accessType="SFTP" host="deep2.inf.u-szeged.hu" port="22" sshConfigId="e818d4f4-dcde-4d6c-bd9b-7fc909be7416" sshConfig="deep2">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

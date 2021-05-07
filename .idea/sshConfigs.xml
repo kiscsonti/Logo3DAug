@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="deep1.inf.u-szeged.hu" id="5f097da8-2980-47ed-a6e0-a49e5d8ff66a" port="22" customName="deep1" nameFormat="CUSTOM">
+        <option name="customName" value="deep1" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="deep2.inf.u-szeged.hu" id="e818d4f4-dcde-4d6c-bd9b-7fc909be7416" port="22" customName="deep2" nameFormat="CUSTOM">
+        <option name="customName" value="deep2" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
